@@ -736,9 +736,6 @@ body {
   transition: left 0.2s ease-in-out;
 }
 
-.intro--banner button:hover .btn-background {
-  left: 0;
-}
 
 .intro--banner button:focus {
   outline: none;
@@ -942,11 +939,6 @@ body {
   overflow: hidden;
 }
 
-.work--lockup .slider--item:hover {
-  background-color: white;
-  border-radius: 50%;
-  padding: 5px 0;
-}
 .work--lockup .slider--item-image img {
   width: 100%;
 }
@@ -1540,8 +1532,8 @@ body {
 }
 
 .work-request--options input[type="checkbox"]:checked + label {
-  background-color: #c23616;
-  border-color: #c23616;
+  background-color: #69c216;
+  border-color: #69c216;
 }
 
 .work-request--options input[type="checkbox"]:checked + label svg {
